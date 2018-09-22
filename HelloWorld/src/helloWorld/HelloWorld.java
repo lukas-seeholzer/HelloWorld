@@ -13,8 +13,13 @@ public class HelloWorld {
 		System.out.println("adding yet another feature from desktopJPPG");
 	}
 	
+<<<<<<< HEAD
 	public void newDesktopFeature() {
 		System.out.println("new feature");
+=======
+	public void newPCFeature() {
+		
+>>>>>>> refs/heads/newPCFeature
 	}
 
 	public static void main(String[] args) {
