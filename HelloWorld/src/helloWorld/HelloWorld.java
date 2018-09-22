@@ -12,6 +12,10 @@ public class HelloWorld {
 		System.out.println("adding feature from pc");
 		System.out.println("adding yet another feature from desktopJPPG");
 	}
+	
+	public void newDesktopFeature() {
+		System.out.println("new feature");
+	}
 
 	public static void main(String[] args) {
 		new HelloWorld();
